@@ -2,6 +2,9 @@
   "name": "package-sub",
   "version": "0.0.1",
   "main": "index.js",
+  "files": [
+    "./dist/**/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
